@@ -45,7 +45,6 @@
   <br>
   
 My Statistics:
-
 | ![Sandaruwan's github stats](https://github-readme-stats.vercel.app/api?username=Sandaruwan720&show_icons=true&theme=tokyonight) | ![Sandaruwan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandaruwan720&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandaruwan720&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Sandaruwan720&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
@@ -53,7 +52,9 @@ My Statistics:
 
 
 
-<br>
+
+
+<br><br>
 <h3 align="left">Activity:</h3>
 
 ![Dinushan4568's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandaruwan720&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
